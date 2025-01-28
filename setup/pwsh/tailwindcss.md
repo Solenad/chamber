@@ -4,8 +4,6 @@ TailwindCSS v4.0 is ass rn, kindly use this setup:
 
 Date: 2025-01-09
 
----
-
 1.
 
 ```bash
