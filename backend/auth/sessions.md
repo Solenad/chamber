@@ -30,7 +30,7 @@ Small markdown file storing all I can muster about sessions. Taking note of comm
 | **Use Cases**       | Traditional web apps                        | APIs/SPAs                                 |
 
 ## Practices
-**Base practice for web-apps**: Express-sessions with Redis for server-side storage
-**For APIs**: Use JWT with HTTPS + HttpOnly cookies (security)
-**Stateful and Stateless approach**: Integrate both Redis and JWT
+**Base practice for web-apps**: Express-sessions with Redis for server-side storage  
+**For APIs**: Use JWT with HTTPS + HttpOnly cookies (security)  
+**Stateful and Stateless approach**: Integrate both Redis and JWT  
 **Constants**: Set cookie flags: Secure, SameSite, HttpOnly
