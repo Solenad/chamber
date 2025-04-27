@@ -16,6 +16,11 @@ Repo: <https://github.com/dlsu-lscs/leap25-backend>
    - Setup verify callback
      - callback handles first-time login
      - finishes after successful authentication
+3. Post session integration
+   - After sessions:
+     - Add serialization and deserialization for passport
+     - serialization: stores user id for sessions, strengthens security and performance
+     - deserialization: fetches full user object for subsequent requests
 
 ## Potential Issues
 
